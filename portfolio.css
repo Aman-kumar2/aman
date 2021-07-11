@@ -1,0 +1,89 @@
+.patel{
+    background-color: antiquewhite;
+    overflow: auto;
+}
+.patel  a{
+    float: right;
+    color: crimson;
+    text-align: center;
+    padding: 30px 50px;
+}
+.patel a:hover{
+    background-color: burlywood;
+     color: darkolivegreen;
+}
+.patel a.active{
+    background-color: teal;
+    color: khaki;
+}
+.card{
+    background-color: hotpink;
+    padding: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0, 0.2);
+    margin: inherit;
+    text-align: center;
+     box-sizing:border-box;
+     float: right;
+     height: auto;
+     width: 500px;
+     
+}
+title{
+    color:#666 ;
+    font-size: 18px;
+}
+button{
+    border: none;
+    font: 0;
+    display: inline-block;
+    padding: 8px;
+    color: azure;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: azure;
+}
+button    :hover,a :hover{
+    opacity: 0.7;
+}
+img{
+    border: 2px solid #666; 
+     float: right;
+     padding: 0px;
+     height: auto;
+     max-width: 100%;
+      
+}   
+
+bodY{
+  background-color: springgreen;
+}
+.lock{
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+*{box-sizing: border-box;}
+
+.strength{
+    text-align: center;
+    padding: 10px;   
+}
+  .style{
+    font-size: 30px;
+    padding: 5px;
+  }  
+
+
+
+
+
+
+
+
